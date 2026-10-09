@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private data: never publish these
+*.sql
+*.sql.gz
+dmarc_reports/
+*.xml
+.env
+
+# Local output
+optimized/
+
+# OS
+.DS_Store
